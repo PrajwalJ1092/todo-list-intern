@@ -1,0 +1,36 @@
+.mainbox{
+    /* height:25rem;
+    width: 25rem; */
+    /* background-color: aqua; */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 0 10%;
+
+}
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-image: url(https://img.freepik.com/premium-photo/list-icon-notebook-with-completed-todo-list-3d-render_471402-428.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+.main2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.searchtask{
+    background-color: rgb(217, 241, 241);
+    border-radius: 10px;
+    padding: 10px;
+}
+button{
+    background-color: rgb(20, 194, 224);
+    border-radius: 5px;
+    border: none;
+}
